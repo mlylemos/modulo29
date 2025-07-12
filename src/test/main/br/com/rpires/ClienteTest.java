@@ -1,6 +1,3 @@
-/**
- * 
- */
 package br.com.rpires;
 
 import static org.junit.Assert.assertEquals;
@@ -13,10 +10,6 @@ import br.com.rpires.dao.ClienteDAO;
 import br.com.rpires.dao.IClienteDAO;
 import br.com.rpires.domain.Cliente;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ClienteTest {
 
 	@Test
